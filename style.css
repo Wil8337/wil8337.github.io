@@ -23,15 +23,3 @@ p {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
-
-ul {
-    list-style-position: inside;  /* Moves the bullet inside the list item */
-    text-align: center;           /* Centers the text */
-    padding: 0;                   /* Removes default padding */
-    display: table;               /* Helps in centering the list */
-    margin: 0 auto;               /* Centers the entire list */
-}
-
-li {
-    display: list-item;  /* Ensures each list item stays a block with a bullet */
-}
